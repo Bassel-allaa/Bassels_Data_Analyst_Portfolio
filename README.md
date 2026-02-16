@@ -165,22 +165,31 @@ I'm continuously expanding my analytical toolkit and building new projects:
 
 ##  About Me
 
-My journey into data analytics combines curiosity, technical skill-building, and real-world problem-solving:
+## About Me
 
-** My Approach:**
-- Start with business questions, not just data
-- Build end-to-end solutions from raw data to insights
-- Focus on actionable recommendations, not just pretty charts
-- Continuously learn new tools and techniques
+I'm a Google-certified data analyst looking for my first full-time role. I've spent the last several months building a portfolio of projects that demonstrate I can handle real data analysis work—from database design and SQL queries to dashboard building and business recommendations.
 
-**Career Focus:**
-- Entry to mid-level data analyst roles
-- E-commerce, retail, and business intelligence
-- Remote-friendly opportunities
-- Companies that value data-driven culture
+**What I Bring:**
+- **Advanced SQL:** CTEs, window functions, joins, data modeling—I'm comfortable with complex queries
+- **Power BI:** Interactive dashboards with proper data modeling and DAX
+- **Excel:** Pivot tables, advanced formulas, dashboard design
+- **Business thinking:** I don't just analyze data; I think about what it means for the business
 
-**Learning Philosophy:**
-I believe in learning by doing. Every project in this portfolio represents hands-on problem-solving with real (or realistic) datasets, building skills that translate directly to professional environments.
+**My Best Work:**
+My e-commerce analytics project is where I'm most proud. I took a messy database with 100K+ orders, cleaned and structured it, ran deep analysis across six business domains (sales, customers, delivery, payments, sellers), and came up with specific, revenue-impacting recommendations. If you want to see what I can do, start there.
+
+**What I'm After:**
+An entry-level data analyst position where I can:
+- Write SQL queries daily (I genuinely enjoy this)
+- Build dashboards that drive decisions
+- Learn from experienced analysts
+- Contribute to real business problems
+
+**The Honest Truth:**
+I'm early in my career, but I'm not starting from zero. I've put in the hours to learn the tools, build the projects, and develop the mindset of an analyst. I'm looking for a team that values drive and aptitude over years of experience.
+
+**Beyond Work:**
+I'm constantly learning—currently expanding my Python skills for data analysis. I believe in building in public, which is why this portfolio exists.
 
 ---
 
