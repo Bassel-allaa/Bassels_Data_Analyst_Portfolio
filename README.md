@@ -234,7 +234,7 @@ I'm actively seeking opportunities and open to collaboration!
 
 <div align="center">
 
- [**Email**](basel3la2@gmail.com)
+ **Email:** basel3la2@gmail.com
 
  [**LinkedIn**](https://www.linkedin.com/in/bassel-elseadawy-675414339/)
 
