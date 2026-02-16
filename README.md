@@ -5,7 +5,6 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Transforming Data into Actionable Insights**
 
@@ -15,31 +14,31 @@
 
 ---
 
-## 👋 Welcome!
+##  Welcome!
 
 I'm a data analyst passionate about uncovering stories hidden in data and translating complex datasets into clear, impactful insights. This portfolio showcases my journey from Excel foundations to advanced SQL analytics and interactive Power BI visualizations.
 
 **What I Do:**
-- 📈 Business Intelligence & Analytics
-- 🛒 E-Commerce & Retail Analysis  
-- 📊 Interactive Dashboard Development
-- 💼 Data-Driven Decision Support
+-  Business Intelligence & Analytics
+-  E-Commerce & Retail Analysis  
+-  Interactive Dashboard Development
+-  Data-Driven Decision Support
 
 ---
 
-## 🗂️ Featured Projects
+##  Featured Projects
 
 ### 1️⃣ E-Commerce Data Analytics
 > **End-to-end analysis of Olist Brazilian e-commerce platform**
 
-![E-Commerce Dashboard](images/ecommerce-dashboard.png)
+![E-Commerce Dashboard](/images/dashboard_overview.png)
 
 **Overview:** Comprehensive analysis covering sales trends, customer retention, delivery performance, and seller metrics to support data-driven business decisions.
 
 **Key Insights:**
-- 📉 Customer churn rate of **71%+** identified as critical issue
-- ✅ Delivery performance at **93% on-time rate**
-- 💡 Recommended loyalty programs and retention strategies
+-  Customer churn rate of **71%+** identified as critical issue
+-  Delivery performance at **93% on-time rate**
+-  Recommended loyalty programs and retention strategies
 
 **Technologies:** `SQL` `PostgreSQL` `Power BI` `Data Cleaning`
 
@@ -52,14 +51,14 @@ I'm a data analyst passionate about uncovering stories hidden in data and transl
 ### 2️⃣ Superstore Sales Analysis
 > **Interactive Excel dashboard for retail performance tracking**
 
-![Superstore Dashboard](images/superstore-dashboard.png)
+![Superstore Dashboard](/images/Superstore_dashboard.png)
 
 **Overview:** Analyzed 9,994 orders from 2014-2017 with interactive features including segment filters, order lookups, heatmaps, and trend analysis.
 
 **Key Insights:**
-- 🌎 West region leads in sales performance
-- 💻 Technology category drives highest profit margins
-- ⚠️ High-return items identified as profit erosion factor
+-  West region leads in sales performance
+-  Technology category drives highest profit margins
+-  High-return items identified as profit erosion factor
 
 **Technologies:** `Excel` `Pivot Tables` `Advanced Formulas` `Data Visualization`
 
@@ -72,14 +71,12 @@ I'm a data analyst passionate about uncovering stories hidden in data and transl
 ### 3️⃣ SQL Job Market Analysis
 > **Data-driven exploration of data analyst career landscape**
 
-![SQL Analysis](images/sql-job-analysis.png)
-
 **Overview:** Queried PostgreSQL database to identify top-paying roles, most in-demand skills, and salary optimization strategies in the data analyst job market.
 
 **Key Insights:**
-- 💰 Skills like **Tableau, AWS, Azure** linked to higher compensation
-- 🏠 Remote opportunities analyzed for location flexibility
-- 📊 **SQL, Python, Tableau** identified as essential skill trio
+-  Skills like **Tableau, AWS, Azure** linked to higher compensation
+-  Remote opportunities analyzed for location flexibility
+-  **SQL, Python, Tableau** identified as essential skill trio
 
 **Technologies:** `SQL` `PostgreSQL` `CTEs` `Joins` `Aggregations`
 
@@ -92,14 +89,14 @@ I'm a data analyst passionate about uncovering stories hidden in data and transl
 ### 4️⃣ Power BI Dashboards
 > **Collection of interactive business intelligence visualizations**
 
-![Power BI Dashboard](images/powerbi-dashboard.png)
+![Power BI Dashboard](/images/Project1_Dashboard_Overview.gif)
 
 **Overview:** Portfolio of Power BI dashboards demonstrating data modeling, DAX calculations, and interactive visualization techniques across various business scenarios.
 
 **Key Features:**
-- 🎯 Dynamic KPI tracking with drill-down capabilities
-- 📈 Trend analysis with time-intelligence functions
-- 🔄 Interactive filters for multi-dimensional analysis
+-  Dynamic KPI tracking with drill-down capabilities
+-  Trend analysis with time-intelligence functions
+-  Interactive filters for multi-dimensional analysis
 
 **Technologies:** `Power BI` `DAX` `Data Modeling` `ETL`
 
@@ -112,7 +109,7 @@ I'm a data analyst passionate about uncovering stories hidden in data and transl
 ### 5️⃣ Excel Salary Analytics
 > **Comprehensive analysis of data professional compensation and skills**
 
-![Excel Salary Dashboard](images/excel-salary-dashboard.png)
+![Excel Salary Dashboard](/images/Salary_analysis.png)
 
 **Overview:** Dual-component project featuring a salary exploration dashboard for job seekers and skills analysis examining what top employers seek in data professionals.
 
@@ -128,7 +125,7 @@ I'm a data analyst passionate about uncovering stories hidden in data and transl
 
 ---
 
-## 💡 Technical Skills
+##  Technical Skills
 
 <table>
 <tr>
@@ -155,39 +152,39 @@ I'm a data analyst passionate about uncovering stories hidden in data and transl
 
 ---
 
-## 🚀 What's Next
+##  What's Next
 
 I'm continuously expanding my analytical toolkit and building new projects:
 
-- 🐍 **In Progress:** Python-based exploratory data analysis and automation
-- 📈 **Planned:** Predictive analytics for sales forecasting using machine learning
-- 📊 **Upcoming:** Tableau certification and advanced visualization projects
-- 🤖 **Learning:** Machine learning fundamentals (classification, regression)
+-  **In Progress:** Python-based exploratory data analysis and automation
+-  **Planned:** Predictive analytics for sales forecasting using machine learning
+-  **Upcoming:** Tableau certification and advanced visualization projects
+-  **Learning:** Machine learning fundamentals (classification, regression)
 
 ---
 
-## 👨‍💼 About Me
+##  About Me
 
 My journey into data analytics combines curiosity, technical skill-building, and real-world problem-solving:
 
-**📊 My Approach:**
+** My Approach:**
 - Start with business questions, not just data
 - Build end-to-end solutions from raw data to insights
 - Focus on actionable recommendations, not just pretty charts
 - Continuously learn new tools and techniques
 
-**🎯 Career Focus:**
+**Career Focus:**
 - Entry to mid-level data analyst roles
 - E-commerce, retail, and business intelligence
 - Remote-friendly opportunities
 - Companies that value data-driven culture
 
-**📚 Learning Philosophy:**
+**Learning Philosophy:**
 I believe in learning by doing. Every project in this portfolio represents hands-on problem-solving with real (or realistic) datasets, building skills that translate directly to professional environments.
 
 ---
 
-## 📸 Project Showcase
+##  Project Showcase
 
 <div align="center">
 
@@ -196,21 +193,21 @@ I believe in learning by doing. Every project in this portfolio represents hands
 <table>
 <tr>
 <td width="50%">
-<img src="images/dashboard-sample-1.png" alt="Sales Dashboard" />
+<img src="images/dashboard_overview.png" alt="Sales Dashboard" />
 <p align="center"><em>Interactive Sales Performance Dashboard</em></p>
 </td>
 <td width="50%">
-<img src="images/dashboard-sample-2.png" alt="Analytics Dashboard" />
+<img src="images/Project1_Dashboard_Overview.gif" alt="Analytics Dashboard" />
 <p align="center"><em>E-Commerce Analytics Overview</em></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="images/dashboard-sample-3.png" alt="Excel Dashboard" />
+<img src="images/Salary_analysis.png" alt="Excel Dashboard" />
 <p align="center"><em>Excel-Based Reporting System</em></p>
 </td>
 <td width="50%">
-<img src="images/sql-results.png" alt="SQL Analysis" />
+<img src="images/skill_analysis.png" alt="SQL Analysis" />
 <p align="center"><em>SQL Query Results & Insights</em></p>
 </td>
 </tr>
@@ -237,9 +234,11 @@ I'm actively seeking opportunities and open to collaboration!
 
 <div align="center">
 
-📧 **Email:** bassel.allaa@example.com  
-💼 **LinkedIn:** [linkedin.com/in/bassel-allaa](https://linkedin.com/in/bassel-allaa)  
+📧 [**Email**](basel3la2@gmail.com)
+
+💼 [**LinkedIn**](https://www.linkedin.com/in/bassel-elseadawy-675414339/)  
 🐙 **GitHub:** [github.com/Bassel-allaa](https://github.com/Bassel-allaa)  
+
 🌐 **Portfolio Site:** *Coming Soon*
 
 </div>
@@ -255,7 +254,7 @@ If you find these projects helpful or inspiring:
 
 ---
 
-## 📝 License
+##  License
 
 This portfolio and its contents are available under the [MIT License](LICENSE).
 
@@ -263,7 +262,7 @@ This portfolio and its contents are available under the [MIT License](LICENSE).
 
 <div align="center">
 
-**Built with 📊 data, ☕ coffee, and 💡 curiosity**
+**Built with  data,  coffee, and  curiosity**
 
 *Last Updated: February 2026*
 
