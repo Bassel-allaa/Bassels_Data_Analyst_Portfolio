@@ -165,7 +165,6 @@ I'm continuously expanding my analytical toolkit and building new projects:
 
 ##  About Me
 
-## About Me
 
 I'm a Google-certified data analyst looking for my first full-time role. I've spent the last several months building a portfolio of projects that demonstrate I can handle real data analysis work—from database design and SQL queries to dashboard building and business recommendations.
 
