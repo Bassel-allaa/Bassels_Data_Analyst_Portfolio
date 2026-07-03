@@ -165,15 +165,6 @@ I'm a data analyst passionate about uncovering stories hidden in data and transl
 
 ---
 
-## What's Next
-
-I'm continuously expanding my analytical toolkit and building new projects:
-
-- **In Progress:** Adding trim-level features to the UAE car pricing model
-- **Planned:** Predictive analytics for sales forecasting using machine learning
-- **Upcoming:** Tableau certification and advanced visualization projects
-- **Learning:** dbt and analytics engineering fundamentals
-
 ---
 
 ## About Me
