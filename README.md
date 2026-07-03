@@ -28,7 +28,7 @@ I'm a data analyst passionate about uncovering stories hidden in data and transl
 
 > **Self-scraped, multi-source Python pipeline analyzing 28K+ real UAE car listings**
 
-[![Price Distribution by Source](https://github.com/Bassel-allaa/Bassels_Data_Analyst_Portfolio/raw/main/images/uae_cars_price_by_source.png)](/Bassel-allaa/Bassels_Data_Analyst_Portfolio/blob/main/images/uae_cars_price_by_source.png)
+![Price Distribution by Source](https://github.com/Bassel-allaa/Bassels_Data_Analyst_Portfolio/raw/main/images/uae_cars_price_by_source.png)](/Bassel-allaa/Bassels_Data_Analyst_Portfolio/blob/main/images/uae_cars_price_by_source.png)
 
 **Overview:** End-to-end pipeline scraping three UAE car marketplaces (CarSwitch, AutoTraders.ae, OpenSooq), combining 28,109 listings after cross-source deduplication, then cleaning, exploring, and modeling the data with regression to answer real questions about how the market actually prices cars.
 
